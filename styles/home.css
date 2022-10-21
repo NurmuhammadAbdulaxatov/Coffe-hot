@@ -14,7 +14,7 @@ body {
 }
 /* start navbar Sunnatillo */
 .header {
-  background-image: url('../images/header__img.jpg');
+  background-image: url("../images/header__img.jpg");
   background-size: auto;
   height: 700px;
   background-repeat: no-repeat;
